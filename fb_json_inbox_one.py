@@ -36,7 +36,7 @@ def process_messages(json_filepath, csv_filepath):
 
 
 # Example Usage
-json_input_path = "C:\\Users\\majoron\\Desktop\\facebook-ondramajor-19_04_2024-Ub746IDG\\your_facebook_activity\\messages\\inbox\\tynaschlenkerova_10209845513082291\\message_1.json"
+json_input_path = "message_1.json"
 csv_output_path = "output_messages.csv"
 
 process_messages(json_input_path, csv_output_path)
